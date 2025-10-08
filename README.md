@@ -99,5 +99,4 @@ Firewalls are strategically placed between the **core** and **distribution layer
 
 ---
 
-## 🧩 Repository Structure
 
